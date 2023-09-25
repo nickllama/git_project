@@ -1,2 +1,1 @@
-# git_project
-# git_project
+прочитай меня, если сможешь.
